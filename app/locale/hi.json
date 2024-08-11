@@ -1,0 +1,87 @@
+{
+  "Schedule": {
+    "SCHEDULE": "अनुसूची",
+    "IS_IT_IMPORTANT": "क्या यह महत्वपूर्ण है?",
+    "IS_IT_NOT_IMPORTANT": "क्या यह महत्वपूर्ण नहीं है?",
+    "IS_IT_URGENT": "क्या यह अत्यावश्यक है?",
+    "IS_IT_NOT_URGENT": "क्या यह अत्यावश्यक नहीं है?",
+    "WAS_I_FOCUSED": "क्या मैं केंद्रित था?",
+    "FOCUSED": "केंद्रित",
+    "DISTRACTED": "विचलित"
+  },
+  "Auth": {
+    "LOGIN": "लॉगइन",
+    "LOGIN_NOW": "अभी लॉगिन करें",
+    "WITH_OTHERS": "दूसरों के साथ",
+    "LOGIN_WITH": "साथ प्रवेश करना",
+    "GOOGLE": "गूगल",
+    "OR": "या",
+    "USERNAME": "उपयोगकर्ता नाम",
+    "PASSWORD": "पासवर्ड",
+    "IF_YOU_DONT_HAVE_AN_ACCOUNT_PLEASE": "यदि आपके एक खाता नहीं है, तो",
+    "FIRST_NAME_IS_REQUIRED": "पहला नाम आवश्यक है",
+    "FIRST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "पहला नाम आपके नाम की से कम या बराबर होना चाहिए",
+    "PASSWORD_MUST_BE_AT_LEAST_8_CHARECTERS": "पासवर्ड कम से कम 8 वर्ण होना चाहिए",
+    "PASSWORD_SHOULD_BE_A_MAXIMUM_OF_64_CHARACTERS": "पासवर्ड कम से कम 64 वर्ण होना चाहिए",
+    "PASSWORD_MUST_BE_8_64_CHARACTERS_LONG_AND_INCLUDE_AT_LEAST_ONE_UPPERCASE_LETTER_ONE_LOWERCASE_LETTER_ONE_NUMBER_ONE_SPECIAL_CHARACTER": "पासवर्ड 8 अक्षरों का होना चाहिए और उसमें कम से कम एक बड़ा अक्षर, एक छोटा अक्षर, एक संख्या और एक विशेष वर्ण शामिल होना चाहिए"
+  },
+  "flotingMenu": {
+    "START_TIME": "समय शुरू",
+    "SETTING": "सेटिंग",
+    "DURATION": "अवधि",
+    "THEME": "विषय",
+    "LANGUAGE": "भाषा"
+  },
+  "macromezzogoals": {
+    "MACRO_GOALS": "स्थूल लक्ष्य",
+    "MEZZO_MILESTONES": "मेज़ो मेलस्टोन"
+  },
+  "microttasks": {
+    "MICRO_TASKS": "सूक्ष्म कार्य",
+    "TODAY": "आज"
+  },
+  "readingtask": {
+    "READING_TASK": "पढ़ना"
+  },
+  "habits": {
+    "GOOD_HABITS": "अच्छी आदतें",
+    "BAD_HABITS": "बुरी आदतें"
+  },
+  "reflectiontask": {
+    "REFLECTION_TASK": "प्रतिबिंब"
+  },
+  "datefilter": {
+    "DATE": "तारीख"
+  },
+  "curruentdayselection": {
+    "DAY": "दिन",
+    "IN_CYCLE": "में साइकिल"
+  },
+  "home": {
+    "HABIT_MATRIX_AI": "आदत मैट्रिक्स एआई"
+  },
+  "modetoggle": {
+    "LIGHT": "लाइट",
+    "DARK": "ड़ार्क",
+    "SYSTEM": "सिस्टम"
+  },
+  "stepcontent": {
+    "FIRSTSTEP": "यह पहला कदम है",
+    "SECONDSTEP": "यह मैक्रो लक्ष्य हैं जहाँ आप अपने छोटे लक्ष्य जोड़ सकते हैं",
+    "THIRDSTEP": "यह आपके छोटे कार्य को पूरा करने का समय दर्शाता है",
+    "FORTHSTEP": "यह आपके मूड को दर्शाता है",
+    "FIFTHSTEP": "यह पैसे के बारे में बताता है",
+    "SIXTHSTEP": "यह मेज़ो लक्ष्य हैं जो दीर्घकालिक लक्ष्यों का प्रतिनिधित्व करते हैं",
+    "SEVENTHSTEP": "यह माइक्रो कार्य हैं जहाँ आपके पास कई कार्य सूची है, आप इसे घंटों में जोड़ सकते हैं",
+    "EIGTHSTEP": "यह एक पठन खंड है",
+    "NINTHSTEP": "यह आदतें खंड है",
+    "TENTHSTEP": "यह अच्छी आदत है",
+    "ELEVENTHSTEP": "यह बुरी आदत है",
+    "TWELFTHSTEP": "✔️ पूर्ण के लिए चेक मार्क",
+    "THIRTEENTHSTEP": "❌ अपूर्ण के लिए निशान",
+    "FOURTEENSTEP": "यह आपकी आदतों का प्रतिबिंब दर्शाता है"
+  },
+  "user-tour": {
+    "USER_GIUDE": "उपयोगकर्ता गाइड"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Schedule": {
+    "SCHEDULE": "Calendrier",
+    "IS_IT_IMPORTANT": "Est-ce important",
+    "IS_IT_NOT_IMPORTANT": "Est-ce pas important",
+    "IS_IT_URGENT": "Est-ce urgent",
+    "IS_IT_NOT_URGENT": "Est-ce pas urgent",
+    "WAS_I_FOCUSED": "Étais-je concentré?",
+    "FOCUSED": "Concentré",
+    "DISTRACTED": "Distrait"
+  },
+  "Auth": {
+    "LOGIN": "Se connecter",
+    "LOGIN_NOW": "Connecte-toi maintenant",
+    "WITH_OTHERS": "avec les autres",
+    "LOGIN_WITH": "Connectez-vous avec",
+    "GOOGLE": "Google",
+    "OR": "OU",
+    "USERNAME": "Nom d'utilisateur",
+    "PASSWORD": "Mot de passe",
+    "IF_YOU_DONT_HAVE_AN_ACCOUNT_PLEASE": "Si vous n'avez pas de compte, veuillez",
+    "FIRST_NAME_IS_REQUIRED": "Prénom est obligatoire",
+    "FIRST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "Le prénom doit être inférieur ou égal à 132 caractères",
+    "PASSWORD_MUST_BE_AT_LEAST_8_CHARECTERS": "Le mot de passe doit comporter au moins 8 caractères",
+    "PASSWORD_SHOULD_BE_A_MAXIMUM_OF_64_CHARACTERS": "Le mot de passe doit comporter au maximum 64 caractères",
+    "PASSWORD_MUST_BE_8_64_CHARACTERS_LONG_AND_INCLUDE_AT_LEAST_ONE_UPPERCASE_LETTER_ONE_LOWERCASE_LETTER_ONE_NUMBER_ONE_SPECIAL_CHARACTER": "Le mot de passe doit comporter 8 caractères et inclure au moins une majuscule, une minuscule, un chiffre et un caractère spécial"
+  },
+  "flotingMenu": {
+    "START_TIME": "Heure de début",
+    "SETTING": "paramètre",
+    "DURATION": "durée",
+    "THEME": "THÈME",
+    "LANGUAGE": "langue"
+  },
+  "macromezzogoals": {
+    "MACRO_GOALS": "OBJECTIFS MACRO",
+    "MEZZO_MILESTONES": "ÉTAPES MEZZO"
+  },
+  "microttasks": {
+    "MICRO_TASKS": "MICRO-TÂCHES",
+    "TODAY": "AUJOURD'HUI"
+  },
+  "readingtask": {
+    "READING_TASK": "EN LISANT"
+  },
+  "habits": {
+    "GOOD_HABITS": "BONNES HABITUDES",
+    "BAD_HABITS": "MAUVAISES HABITUDES"
+  },
+  "reflectiontask": {
+    "REFLECTION_TASK": "RÉFLEXION"
+  },
+  "datefilter": {
+    "DATE": "DATE"
+  },
+  "curruentdayselection": {
+    "DAY": "Jour",
+    "IN_CYCLE": "en cycle"
+  },
+  "home": {
+    "HABIT_MATRIX_AI": "IA matricielle d’habitudes"
+  },
+  "modetoggle": {
+    "LIGHT": "Lumière",
+    "DARK": "Sombre",
+    "SYSTEM": "Système"
+  },
+  "stepcontent": {
+    "FIRSTSTEP": "Ceci est la première étape",
+    "SECONDSTEP": "Ce sont les objectifs macro où vous pouvez ajouter vos petits objectifs",
+    "THIRDSTEP": "Ceci indique le temps nécessaire pour terminer votre petite tâche",
+    "FORTHSTEP": "Ceci représente votre humeur",
+    "FIFTHSTEP": "Ceci montre l'argent",
+    "SIXTHSTEP": "Ce sont les objectifs mezzo qui représentent les objectifs à long terme",
+    "SEVENTHSTEP": "Ce sont les micro-tâches où vous avez plusieurs listes de tâches, vous pouvez les ajouter par heures",
+    "EIGTHSTEP": "Ceci est une section de lecture",
+    "NINTHSTEP": "Ceci est la section des habitudes",
+    "TENTHSTEP": "Ceci est la bonne habitude",
+    "ELEVENTHSTEP": "Ceci est la mauvaise habitude",
+    "TWELFTHSTEP": "✔️ coche pour terminé",
+    "THIRTEENTHSTEP": "❌ marque pour incomplet",
+    "FOURTEENSTEP": "Cela montre la réflexion de vos habitudes"
+  },
+  "user-tour": {
+    "USER_GIUDE": "Mode d'emploi"
+  }
+}

@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0, 0%, 100%, 1;
+  --foreground: 222.2 47.4% 11.2%;
+  --muted: 215, 11%, 40%;
+  --muted-foreground: 218, 11%, 65%;
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 47.4% 11.2%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222.2 47.4% 11.2%;
+  --secondary: 221, 62%, 52%;
+  --secondary-foreground: 210 40% 98%;
+  --text-input: 213 94% 68%;
+  --light-gray: 280, 13%, 91%, 0.6;
+  --light-slate: 248, 100%, 97%, 0.8;
+  --light-gray-high-opecity: 220, 13%, 91%, 0.8;
+  --primary: 221, 64%, 49%;
+  --primary-foreground: 212 96.4% 78.4%;
+  --text-input: 213 94% 68%;
+  --light-gray: 220, 13%, 91%;
+  --light-gray-high-opecity: 220, 14%, 96%;
+  --input-focus-color: 210, 20%, 98%;
+  --destructive: 352.8, 65%, 59.6%;
+}
+
+.dark {
+  --background: 224 71% 4%;
+  --background-header: 0, 0%, 7%;
+  --foreground: 213 31% 91%;
+  --light-gray: 280, 13%, 91%, 0.6;
+  --light-gray-high-opecity: 220, 13%, 91%, 0.8;
+  --muted: 220, 13%, 91%;
+  --muted-foreground: 218, 11%, 65%;
+  --primary: 221, 100%, 74%;
+  --primary-foreground: 222 40.2% 45.9%;
+  --light-gray: 217, 19.1%, 26.7%;
+  --light-gray-high-opecity: 215, 28%, 17%;
+  --input-focus-color: 215, 28%, 17%, 1;
+  --destructive: 352.8, 65%, 59.6%;
+}

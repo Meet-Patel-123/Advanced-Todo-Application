@@ -1,0 +1,87 @@
+{
+  "Schedule": {
+    "SCHEDULE": "Cronograma",
+    "IS_IT_IMPORTANT": "¿Es importante?",
+    "IS_IT_NOT_IMPORTANT": "¿No es importante?",
+    "IS_IT_URGENT": "¿Es urgente?",
+    "IS_IT_NOT_URGENT": "¿No es urgente?",
+    "WAS_I_FOCUSED": "¿Estaba enfocado?",
+    "FOCUSED": "Enfocado",
+    "DISTRACTED": "Distraído"
+  },
+  "Auth": {
+    "LOGIN": "acceso",
+    "LOGIN_NOW": "Login Now",
+    "WITH_OTHERS": "Inicia sesión ahora",
+    "LOGIN_WITH": "Inicia con",
+    "GOOGLE": "Google",
+    "OR": "O",
+    "USERNAME": "Nombre de usuario",
+    "PASSWORD": "Contraseña",
+    "IF_YOU_DONT_HAVE_AN_ACCOUNT_PLEASE": "Si no tienes una cuenta, por favor",
+    "FIRST_NAME_IS_REQUIRED": "Nombre de usuario es obligatorio",
+    "FIRST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "El nombre de usuario debe ser menor o igual a 132 caracteres",
+    "PASSWORD_MUST_BE_AT_LEAST_8_CHARECTERS": "La contraseña debe tener al menos 8 caracteres",
+    "PASSWORD_SHOULD_BE_A_MAXIMUM_OF_64_CHARACTERS": "La contraseña debe tener como máximo 64 caracteres",
+    "PASSWORD_MUST_BE_8_64_CHARACTERS_LONG_AND_INCLUDE_AT_LEAST_ONE_UPPERCASE_LETTER_ONE_LOWERCASE_LETTER_ONE_NUMBER_ONE_SPECIAL_CHARACTER": "La contraseña debe tener 8 caracteres y incluir al menos una mayúscula, una minúscula, un número y un carácter especial"
+  },
+  "flotingMenu": {
+    "START_TIME": "hora de inicio",
+    "SETTING": "configuración",
+    "DURATION": "duración",
+    "THEME": "TEMA",
+    "LANGUAGE": "idioma"
+  },
+  "macromezzogoals": {
+    "MACRO_GOALS": "METAS MACRO",
+    "MEZZO_MILESTONES": "HITOS DEL MEZZO"
+  },
+  "microttasks": {
+    "MICRO_TASKS": "MICROTAREAS",
+    "TODAY": "HOY"
+  },
+  "readingtask": {
+    "READING_TASK": "LECTURA"
+  },
+  "habits": {
+    "GOOD_HABITS": "BUENOS HÁBITOS",
+    "BAD_HABITS": "MALOS HÁBITOS"
+  },
+  "reflectiontask": {
+    "REFLECTION_TASK": "REFLEXIÓN"
+  },
+  "datefilter": {
+    "DATE": "FECHA"
+  },
+  "curruentdayselection": {
+    "DAY": "Día",
+    "IN_CYCLE": "en ciclo"
+  },
+  "home": {
+    "HABIT_MATRIX_AI": "Matriz de hábitos Ai"
+  },
+  "modetoggle": {
+    "LIGHT": "Ligero",
+    "DARK": "Oscura",
+    "SYSTEM": "Sistema"
+  },
+  "stepcontent": {
+    "FIRSTSTEP": "Este es el primer paso",
+    "SECONDSTEP": "Estos son los objetivos macro donde puedes agregar tus pequeños objetivos",
+    "THIRDSTEP": "Esto indica el tiempo para completar tu pequeña tarea",
+    "FORTHSTEP": "Esto representa tu estado de ánimo",
+    "FIFTHSTEP": "Esto muestra el dinero",
+    "SIXTHSTEP": "Estos son los objetivos mezzo que representan los objetivos a largo plazo",
+    "SEVENTHSTEP": "Estas son las tareas micro donde tienes múltiples listas de tareas, puedes agregarlas por horas",
+    "EIGTHSTEP": "Esta es una sección de lectura",
+    "NINTHSTEP": "Esta es la sección de hábitos",
+    "TENTHSTEP": "Este es el buen hábito",
+    "ELEVENTHSTEP": "Este es el mal hábito",
+    "TWELFTHSTEP": "✔️ marca de verificación para completado",
+    "THIRTEENTHSTEP": "❌ marca para incompleto",
+    "FOURTEENSTEP": "Esto muestra la reflexión de tus hábitos"
+  },
+  "user-tour": {
+    "USER_GIUDE": "Guía del usuario"
+  }
+}

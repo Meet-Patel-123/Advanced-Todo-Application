@@ -1,0 +1,87 @@
+{
+  "Schedule": {
+    "SCHEDULE": "Zeitplan",
+    "IS_IT_IMPORTANT": "Ist es wichtig",
+    "IS_IT_NOT_IMPORTANT": "Ist es nicht wichtig",
+    "IS_IT_URGENT": "Ist es dringend",
+    "IS_IT_NOT_URGENT": "Ist es nicht dringend",
+    "WAS_I_FOCUSED": "War ich fokussiert?",
+    "FOCUSED": "Fokussiert",
+    "DISTRACTED": "Abgelenkt"
+  },
+  "Auth": {
+    "LOGIN": "Anmeldung",
+    "LOGIN_NOW": "Jetzt einloggen",
+    "WITH_OTHERS": "mit anderen",
+    "LOGIN_WITH": "Einloggen mit",
+    "GOOGLE": "Google",
+    "OR": "ODER",
+    "USERNAME": "Nutzername",
+    "PASSWORD": "Passwort",
+    "FIRST_NAME_IS_REQUIRED": "Vorname ist erforderlich",
+    "IF_YOU_DONT_HAVE_AN_ACCOUNT_PLEASE": "Wenn Sie kein Konto haben, bitte",
+    "FIRST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "Vorname muss weniger als oder gleich 132 Zeichen sein",
+    "PASSWORD_MUST_BE_AT_LEAST_8_CHARECTERS": "Passwort muss mindestens 8 Zeichen lang sein",
+    "PASSWORD_SHOULD_BE_A_MAXIMUM_OF_64_CHARACTERS": "Passwort sollte maximal 64 Zeichen lang sein",
+    "PASSWORD_MUST_BE_8_64_CHARACTERS_LONG_AND_INCLUDE_AT_LEAST_ONE_UPPERCASE_LETTER_ONE_LOWERCASE_LETTER_ONE_NUMBER_ONE_SPECIAL_CHARACTER": "Passwort muss 8 Zeichen lang sein und mindestens einen Großbuchstaben, einen Kleinbuchstaben, eine Zahl und ein Sonderzeichen enthalten"
+  },
+  "flotingMenu": {
+    "START_TIME": "Startzeit",
+    "SETTING": "Einstellung",
+    "DURATION": "Dauer",
+    "THEME": "THEMA",
+    "LANGUAGE": "Sprache"
+  },
+  "macromezzogoals": {
+    "MACRO_GOALS": "MAKROZIELE",
+    "MEZZO_MILESTONES": "MEZZO-MEILENSTEINE"
+  },
+  "microttasks": {
+    "MICRO_TASKS": "MIKROAUFGABEN",
+    "TODAY": "HEUTE"
+  },
+  "readingtask": {
+    "READING_TASK": "LEKTÜRE"
+  },
+  "habits": {
+    "GOOD_HABITS": "GUTE GEWOHNHEITEN",
+    "BAD_HABITS": "SCHLECHTE ANGEWOHNHEITEN"
+  },
+  "reflectiontask": {
+    "REFLECTION_TASK": "BETRACHTUNG"
+  },
+  "datefilter": {
+    "DATE": "DATUM"
+  },
+  "curruentdayselection": {
+    "DAY": "Tag",
+    "IN_CYCLE": "im Zyklus"
+  },
+  "home": {
+    "HABIT_MATRIX_AI": "Gewohnheitsmatrix Ai"
+  },
+  "modetoggle": {
+    "LIGHT": "Licht",
+    "DARK": "Dunkel",
+    "SYSTEM": "System"
+  },
+  "stepcontent": {
+    "FIRSTSTEP": "Dies ist der erste Schritt",
+    "SECONDSTEP": "Dies sind die Makroziele, bei denen Sie Ihre kleinen Ziele hinzufügen können",
+    "THIRDSTEP": "Dies zeigt die Zeit an, die benötigt wird, um Ihre kleine Aufgabe zu erledigen",
+    "FORTHSTEP": "Dies repräsentiert Ihre Stimmung",
+    "FIFTHSTEP": "Dies zeigt das Geld an",
+    "SIXTHSTEP": "Dies sind die Mezzo-Ziele, die die langfristigen Ziele darstellen",
+    "SEVENTHSTEP": "Dies sind die Mikroaufgaben, bei denen Sie mehrere Aufgabenlisten hinzufügen können, die nach Stunden aufgeteilt sind",
+    "EIGTHSTEP": "Dies ist ein Leseabschnitt",
+    "NINTHSTEP": "Dies ist der Abschnitt für Gewohnheiten",
+    "TENTHSTEP": "Dies ist die gute Gewohnheit",
+    "ELEVENTHSTEP": "Dies ist die schlechte Gewohnheit",
+    "TWELFTHSTEP": "✔️ Häkchen für abgeschlossen",
+    "THIRTEENTHSTEP": "❌ Markierung für unvollständig",
+    "FOURTEENSTEP": "Dies zeigt die Reflexion Ihrer Gewohnheiten"
+  },
+  "user-tour": {
+    "USER_GIUDE": "Benutzerhandbuch"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "Schedule": {
+    "SCHEDULE": "Schedule",
+    "IS_IT_IMPORTANT": "Is it important",
+    "IS_IT_NOT_IMPORTANT": "Is it not important",
+    "IS_IT_URGENT": "Is it urgent",
+    "IS_IT_NOT_URGENT": "Is it not urgent",
+    "WAS_I_FOCUSED": "Was I focused?",
+    "FOCUSED": "Focused",
+    "UNFOCUS": "Unfocus",
+    "DISTRACTED": "Distracted",
+    "URGENT": "Urgent",
+    "NOT_URGENT": "Not urgent",
+    "IMPORTANT": "Important",
+    "NOT_IMPORTANT": "Not important",
+    "NOT": "Not",
+    "NO_DATA_FOUND": "No data found"
+  },
+  "Auth": {
+    "EMAIL": "Email",
+    "LOGIN": "Login",
+    "LOGIN_NOW": "Login Now",
+    "WITH_OTHERS": "with Others",
+    "LOGIN_WITH": "Login with",
+    "GOOGLE": "Google",
+    "OR": "OR",
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "SIGN_UP": "Sign Up",
+    "SIGN_UP_WITH": "SignUp with",
+    "SIGN_UP_NOW": "Sign Up Now",
+    "IF_YOU_DON_T_HAVE_AN_ACCOUNT_PLEASE": "If you don't have an account, please;",
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "PASSWORD_MUST_BE_8_64_CHARACTERS_LONG_AND_INCLUDE_AT_LEAST_ONE_UPPERCASE_LETTER_ONE_LOWERCASE_LETTER_ONE_NUMBER_ONE_SPECIAL_CHARACTER": "password must be 8-64 characters long, and include at least one uppercase letter, one lowercase letter, one number, and one special character",
+    "PASSWORD_MUST_BE_AT_LEAST_8_CHARECTERS": "Password must be at least 8 characters",
+    "PASSWORD_SHOULD_BE_A_MAXIMUM_OF_64_CHARACTERS": "Password should be a maximum of 64 characters.",
+    "EMAIL_IS_NOT_VALID": "Email is not valid",
+    "EMAIL_IS_REQUIRED": "Email is required",
+    "EMAIL_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "Email must be less than or equal to 132 characters",
+    "FIRST_NAME_IS_REQUIRED": "First name is required",
+    "FIRST_NAME_MUST_BE_AT_LEAST_3_CHARACTERS": "First name must be at least 3 characters",
+    "FIRST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "First name must be less than or equal to 132 characters",
+    "LAST_NAME_IS_REQUIRED": "Last name is required",
+    "LAST_NAME_MUST_BE_AT_LEAST_3_CHARACTERS": "Last name must be at least 3 characters",
+    "LAST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "Last name must be less than or equal to 132 characters",
+    "IF_YOU_DONT_HAVE_AN_ACCOUNT_PLEASE": "If you don't have an account, please"
+  },
+  "flotingMenu": {
+    "START_TIME": "start time",
+    "SETTING": "setting",
+    "DURATION": "duration",
+    "THEME": "THEME",
+    "LANGUAGE": "language"
+  },
+  "macromezzogoals": {
+    "MACRO_GOALS": "MACRO GOALS",
+    "MEZZO_MILESTONES": "MEZZO MILESTONES"
+  },
+  "microttasks": {
+    "MICRO_TASKS": "MICRO TASKS",
+    "TODAY": "TODAY"
+  },
+  "readingtask": {
+    "READING_TASK": "READING"
+  },
+  "habits": {
+    "GOOD_HABITS": "GOOD HABITS",
+    "BAD_HABITS": "BAD HABITS"
+  },
+  "reflectiontask": {
+    "REFLECTION_TASK": "REFLECTION"
+  },
+  "datefilter": {
+    "DATE": "DATE"
+  },
+  "curruentdayselection": {
+    "DAY": "Day",
+    "IN_CYCLE": "in cycle"
+  },
+  "home": {
+    "HABIT_MATRIX_AI": "Habit Matrix AI"
+  },
+  "modetoggle": {
+    "LIGHT": "Light",
+    "DARK": "Dark",
+    "SYSTEM": "System"
+  },
+  "stepcontent": {
+    "FIRSTSTEP": "This is the Schedule where you can add your task with time",
+    "SECONDSTEP": "This is the Macro Goals where you can add your small goals",
+    "THIRDSTEP": "This indicate the time to complete your small task",
+    "FORTHSTEP": "This represent your mood",
+    "FIFTHSTEP": "This show about the money",
+    "SIXTHSTEP": "This is the Mezzo goals which represent the long term goals",
+    "SEVENTHSTEP": "This is the Micro Tasks where you have multiple tasks list , you can add it by hours",
+    "EIGTHSTEP": "The is a reading portion",
+    "NINTHSTEP": "This is the habits section",
+    "TENTHSTEP": "This is the Good Habit",
+    "ELEVENTHSTEP": "This is the Bad Habit",
+    "TWELFTHSTEP": "✔️ check mark for completed",
+    "THIRTEENTHSTEP": "❌ mark for incomplete",
+    "FOURTEENSTEP": "It shows the reflection of your habits"
+  },
+  "user-tour": {
+    "USER_GIUDE": "User Guide"
+  }
+}

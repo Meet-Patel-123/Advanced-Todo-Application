@@ -1,0 +1,45 @@
+.date-filter .react-calendar__month-view__weekdays__weekday abbr:where([title]) {
+    text-decoration: none;
+}
+
+.react-calendar__month-view__days__day:hover,
+.react-calendar__century-view__decades__decade:hover,
+.react-calendar__decade-view__years__year:hover,
+.react-calendar__year-view__months__month:hover,
+.react-calendar__navigation:enabled:hover {
+    color: black;
+}
+
+.react-calendar__tile--now {
+    background-color: #0018a8;
+    color: white;
+}
+
+.react-calendar__tile--now:enabled:hover,
+.react-calendar__tile--now:enabled:focus {
+    background: #006edc;
+    color: white;
+}
+
+.react-calendar__month-view__days__day--weekend {
+    color: inherit;
+}
+
+.react-calendar__tile--active:enabled {
+    color: white;
+}
+
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+    color: black;
+    background-color: #e6e6e6;
+}
+
+.react-calendar__navigation__label:hover {
+    color: black;
+}
+
+.react-calendar__navigation button:disabled {
+    background-color: #f0f0f0;
+    color: black;
+}

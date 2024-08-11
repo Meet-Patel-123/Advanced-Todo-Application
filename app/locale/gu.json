@@ -1,0 +1,87 @@
+{
+  "Schedule": {
+    "SCHEDULE": "અનુસૂચિ",
+    "IS_IT_IMPORTANT": "શું તે મહત્વપૂર્ણ છે?",
+    "IS_IT_NOT_IMPORTANT": "શું તે મહત્વપૂર્ણ નથી?",
+    "IS_IT_URGENT": "શું તે તાત્કાલિક છે?",
+    "IS_IT_NOT_URGENT": "શું તે તાત્કાલિક નથી?",
+    "WAS_I_FOCUSED": "શું હું કેન્દ્રિત હતો?",
+    "FOCUSED": "કેન્દ્રિત",
+    "DISTRACTED": "ધ્યાન ભંગ"
+  },
+  "Auth": {
+    "LOGIN": "પ્રવેશ કરો",
+    "LOGIN_NOW": "લૉગિન કરો",
+    "WITH_OTHERS": "અન્ય સાથે",
+    "LOGIN_WITH": "થી પ્રવેશ",
+    "GOOGLE": "ગૂગલ",
+    "OR": "અથવા",
+    "USERNAME": "વપરાશકર્તા નામ",
+    "PASSWORD": "પાસવર્ડ",
+    "IF_YOU_DONT_HAVE_AN_ACCOUNT_PLEASE": "જો તમે એક એકાઉન્ટ નથી છે, તો",
+    "FIRST_NAME_IS_REQUIRED": "પહેલાંથી નામ આવશ્યક છે",
+    "FIRST_NAME_MUST_BE_LESS_THAN_OR_EQUAL_TO_132_CHARACTERS": "પહેલાંથી નામ તમારી નામમાં નીચે છે અથવા તમારી નામમાં બહુવિચ છે",
+    "PASSWORD_MUST_BE_AT_LEAST_8_CHARECTERS": "પાસવર્ડ તમારી નામમાં નીચે છે અથવા તમારી નામમાં બહુવિચ છે",
+    "PASSWORD_SHOULD_BE_A_MAXIMUM_OF_64_CHARACTERS": "પાસવર્ડ તમારી નામમાં નીચે છે અથવા તમારી નામમાં બહુવિચ છે",
+    "PASSWORD_MUST_BE_8_64_CHARACTERS_LONG_AND_INCLUDE_AT_LEAST_ONE_UPPERCASE_LETTER_ONE_LOWERCASE_LETTER_ONE_NUMBER_ONE_SPECIAL_CHARACTER": "પાસવર્ડ તમારી નામમાં નીચે છે અથવા તમારી નામમાં બહુવિચ છે"
+  },
+  "flotingMenu": {
+    "START_TIME": "પ્રારંભ સમય",
+    "SETTING": "સેટિંગ",
+    "DURATION": "સમયગાળો",
+    "THEME": "થીમ",
+    "LANGUAGE": "ભાષા"
+  },
+  "macromezzogoals": {
+    "MACRO_GOALS": "મેક્રો ગોલ",
+    "MEZZO_MILESTONES": "મેઝો માઇલસ્ટોન્સ"
+  },
+  "microttasks": {
+    "MICRO_TASKS": "માઇક્રો કાર્યો",
+    "TODAY": "આજે"
+  },
+  "readingtask": {
+    "READING_TASK": "વાંચન"
+  },
+  "habits": {
+    "GOOD_HABITS": "સારી આદતો",
+    "BAD_HABITS": "ખરાબ ટેવો"
+  },
+  "reflectiontask": {
+    "REFLECTION_TASK": "પ્રતિબિંબ"
+  },
+  "datefilter": {
+    "DATE": "તારીખ"
+  },
+  "curruentdayselection": {
+    "DAY": "દિવસ",
+    "IN_CYCLE": "ચક્રમાં"
+  },
+  "home": {
+    "HABIT_MATRIX_AI": "હેબીટ મેટ્રિક્સ એઆઈ"
+  },
+  "modetoggle": {
+    "LIGHT": "લાઇટ",
+    "DARK": "ડાર્ક ",
+    "SYSTEM": "સિસ્ટમ"
+  },
+  "stepcontent": {
+    "FIRSTSTEP": "આ પહેલું પગથિયું છે",
+    "SECONDSTEP": "આ મેક્રો ગોલ્સ છે જ્યાં તમે તમારા નાના ગોલ્સ ઉમેરો છો",
+    "THIRDSTEP": "આ તમારા નાના કાર્યને પૂર્ણ કરવા માટેનો સમય દર્શાવે છે",
+    "FORTHSTEP": "આ તમારા મિજાજનું પ્રતીક છે",
+    "FIFTHSTEP": "આ પૈસા વિશે દર્શાવે છે",
+    "SIXTHSTEP": "આ મેઝો ગોલ્સ છે જે લાંબા ગાળાના ગોલ્સને પ્રતિબિંબિત કરે છે",
+    "SEVENTHSTEP": "આ મિક્રો ટાસ્ક્સ છે જ્યાં તમારી પાસે વિવિધ ટાસ્ક લિસ્ટ છે, તમે તેને કલાકો દ્વારા ઉમેરી શકો છો",
+    "EIGTHSTEP": "આ વાંચન વિભાગ છે",
+    "NINTHSTEP": "આ આદતો વિભાગ છે",
+    "TENTHSTEP": "આ સારી આદત છે",
+    "ELEVENTHSTEP": "આ ખરાબ આદત છે",
+    "TWELFTHSTEP": "✔️ પૂર્ણ માટે ચેક માર્ક",
+    "THIRTEENTHSTEP": "❌ અધૂરી માટે નિશાની",
+    "FOURTEENSTEP": "આ તમારા આદતોનો પ્રતિબિંબ દર્શાવે છે"
+  },
+  "user-tour": {
+    "USER_GIUDE": "વપરાશકર્તા માર્ગદર્શિકા"
+  }
+}
